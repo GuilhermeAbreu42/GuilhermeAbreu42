@@ -1,27 +1,49 @@
 <div align="center">
 
+  <!-- Welcome GIF Header -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Nm40eXNnd3Mxb2xua3FlcGNpODNvbnBqMmRtbXRkZnJuM3F3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7R23DCz35vcGe6/giphy.gif" width="400" style="border-radius:12px; border:2px solid #8B5CF6;" alt="Welcome GIF"/>
+  </p>
+
+  <br/>
+
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Guilherme%20de%20Abreu%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Estagiário%20de%20TI&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Guilherme%20de%20Abreu%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Estagiário%20de%20TI&descAlignY=55&descSize=18" width="100%"/> 
 
-  <!-- Typing Effect -->
+
+  <!-- Typing Effect Restaurado -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=console.log(%22Bora+codar%3F%22)%3B;Estudante+de+ADS+%F0%9F%8E%93;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=console.log(%22Bora+codar%3F%22)%3B;print(%22Hello+World!%22)%3B;Seja+bem-vindo+ao+meu+Portf%C3%B3lio!;Desenvolvedor+de+Software+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-
   <br/><br/>
 
   <!-- Sobre Mim Card Moderno -->
   <table width="100%">
     <tr>
       <td width="55%" valign="top">
-        <h3 align="left">👨‍💻 Sobre mim</h3>
-        <p align="left">
-          🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b><br/>
-          💼 Atuando no mercado como <b>Estagiário de TI</b><br/>
-          🚀 Focado em evoluir em desenvolvimento e aprender novas tecnologias na prática<br/>
-          🎧 Ouvinte de Rock e Metal enquanto programo<br/>
-          🏋️ Mantendo a rotina de treinos
-        </p>
+        <h2>👨‍💻 Sobre mim</h2>
+      <p>
+         Cursando Análise e Desenvolvimento de Sistemas 🎓🏫
+        
+        <br/>
+        
+ Atuando na área como Estagiário de T.I 💻
+ 
+ <br/>
+
+ 
+        
+Focado em desenvolvimento de software e projetos práticos 🧑‍💻☕
+
+<br/>
+
+Curto escutar Rock e Metal 🤘
+
+
+<br/>
+
+Artes marciais e disciplina na rotina de treinos 🥊🥋
+</p>
       </td>
       <td width="45%" align="center" valign="middle">
         <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" alt="Coding GIF" style="border-radius:12px;" />
@@ -59,8 +81,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
-
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
+  <br/>
 
   <!-- Estatísticas -->
   <h2>📊 Estatísticas de Dev</h2>
@@ -72,9 +95,6 @@
 
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=GuilhermeAbreu42&theme=tokyonight&hide_border=true" />
-  </p>
-
-
   </p>
 
   <br/>
@@ -103,22 +123,18 @@
     </a>
   </p>
 
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
-
-  <!-- Imagem de Finalização Ajustada e Contida -->
-  <table align="center">
-    <tr>
-      <td align="center" style="border:none;">
-        <img src="https://cdn.pfps.gg/pfps/2663-bmw-m3-drift.gif" width="60%" style="border-radius:12px; border:2px solid #8B5CF6; display: block;"/>
-      </td>
-    </tr>
-  </table>
+  <br/>
+<!-- Imagem de Finalização Ajustada -->
+  <p align="center">
+    <img src="https://i.pinimg.com/1200x/0c/a0/99/0ca099803a2477b5e2a01cd3e37c91cf.jpg" width="85%" style="border-radius:12px; display: block;" alt="Party GIF"/>
+  </p>
 
   <br/>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeAbreu42.GuilhermeAbreu42&color=8B5CF6" alt="visitor badge" />
 
   <br/><br/>
-
 
 </div>
