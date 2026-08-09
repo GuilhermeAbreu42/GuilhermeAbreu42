@@ -29,7 +29,7 @@
   Sempre em busca de conhecimento em tecnologia e novos desafios em desenvolvimento. 🚀
 </p>
 <br>
-       <p align="left">Focado no desenvolvimento de aplicações web e soluções em software.  .</p>
+     <p align="left"> Focado no desenvolvimento de sistemas e soluções em software.💻</p>
       </td>
       <td width="45%" align="center" valign="middle">
        <p align="center">
