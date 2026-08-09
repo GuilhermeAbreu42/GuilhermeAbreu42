@@ -1,30 +1,59 @@
 <div align="center">
 
+  <!-- Welcome GIF Header -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Nm40eXNnd3Mxb2xua3FlcGNpODNvbnBqMmRtbXRkZnJuM3F3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7R23DCz35vcGe6/giphy.gif" width="400" style="border-radius:12px; border:2px solid #8B5CF6;" alt="Welcome GIF"/>
+  </p>
+
+  <br/>
+
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Guilherme%20de%20Abreu%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Estagiário%20de%20TI&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Guilherme%20de%20Abreu%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Estagiário%20de%20TI&descAlignY=55&descSize=18" width="100%"/> 
 
   <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=console.log(%22Bora+codar%3F%22)%3B;Estudante+de+ADS+%F0%9F%8E%93;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=console.log(%22Bora+codar%3F%22)%3B;print(%22Hello+World!%22)%3B;Seja+bem-vindo+ao+meu+Portf%C3%B3lio!;Desenvolvedor+de+Software+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-
   <br/><br/>
 
-  <!-- Sobre Mim Card Moderno -->
-  <table width="100%">
+  <!-- Caixa de saudação -->
+  <table width="100%" style="border:1px solid #30363d; border-radius:10px;">
     <tr>
-      <td width="55%" valign="top">
-        <h3 align="left">👨‍💻 Sobre mim</h3>
-        <p align="left">
-          🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b><br/>
-          💼 Atuando no mercado como <b>Estagiário de TI</b><br/>
-          🚀 Focado em evoluir em desenvolvimento e aprender novas tecnologias na prática<br/>
-          🎧 Ouvinte de Rock e Metal enquanto programo<br/>
-          🏋️ Mantendo a rotina de treinos
-        </p>
+      <td width="55%" valign="top" style="padding:24px;">
+        <h2 align="left">Olá, me chamo Guilherme de Abreu 👋</h2>
+        <p align="left">Gosto de tecnologia, sempre em busca de novos desafios em desenvolvimento. 🚀</p>
+        <p align="left">💻 Codando algo novo todo dia • ☕ Café + código = produtividade</p>
       </td>
       <td width="45%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" alt="Coding GIF" style="border-radius:12px;" />
+       <p align="center">
+  <img src="foto-circle.png" width="180" alt="Sua Foto" />
+</p>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- Sobre Mim - solto, fora da caixa -->
+  <table width="100%">
+    <tr>
+      <td width="100%" valign="top">
+        <h2 align="left">👨‍💻 Sobre mim</h2>
+        <p align="left">
+          • Cursando <b>Análise e Desenvolvimento de Sistemas 🎓 (ADS)</b> 
+          <br/>
+          • Atuando na área como <b>Estagiário de TI 💼💻</b>
+          <br/>
+          • Focado em desenvolvimento web (<b>JavaScript, PHP, HTML/CSS</b>) e banco de dados (<b>MySQL</b>) 🧑‍💻☕
+          <br/>
+          • Interesse em <b>hardware</b> e estrutura de sistemas 🛠️
+          <br/>
+          • Escutando <b>Rock e Metal</b> no dia a dia 🤘🎧
+          <br/>
+          • Disciplina e constância nos <b>treinos e artes marciais 🥊🥋</b>
+          <br/>
+          • Curto jogar <b>video game</b> nas horas vagas 🎮
+        </p>
       </td>
     </tr>
   </table>
@@ -33,9 +62,9 @@
   <hr width="100%" color="#8B5CF6"/>
   <br/>
 
-  <!-- Tech Stack Moderno (Shields Badges) -->
+  <!-- Tech Stack (Shields Badges) -->
   <h2>🛠️ Linguagens & Ferramentas</h2>
-  
+
   <p><b>Front-End</b></p>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -59,8 +88,9 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
-
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+  <br/>
 
   <!-- Estatísticas -->
   <h2>📊 Estatísticas de Dev</h2>
@@ -74,51 +104,42 @@
     <img src="https://streak-stats.demolab.com/?user=GuilhermeAbreu42&theme=tokyonight&hide_border=true" />
   </p>
 
-
-  </p>
-
   <br/>
   <hr width="100%" color="#8B5CF6"/>
   <br/>
 
-  <!-- Contato Moderno em Badges -->
+  <!-- Contato -->
   <h2>🌐 Conecte-se Comigo</h2>
   <br/>
 
   <p>
-    <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <a href="https://www.linkedin.com/in/guilherme-de-abreu-35293a3b4/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://discord.com/users/SEU_ID_DISCORD" target="_blank">
+    <a href="https://discord.com/users/591609472594739211" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+    <a href="https://www.instagram.com/guilhermeabreu58/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+    <a href="mailto:guiabreuu2026@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://wa.me/SEU_NUMERO_AQUI" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+  <br/>
 
-  <!-- Imagem de Finalização Ajustada e Contida -->
-  <table align="center">
-    <tr>
-      <td align="center" style="border:none;">
-        <img src="https://cdn.pfps.gg/pfps/2663-bmw-m3-drift.gif" width="60%" style="border-radius:12px; border:2px solid #8B5CF6; display: block;"/>
-      </td>
-    </tr>
-  </table>
+  <!-- Imagem de Finalização -->
+  <p align="center">
+    <img src="https://i.pinimg.com/1200x/0c/a0/99/0ca099803a2477b5e2a01cd3e37c91cf.jpg" width="85%" style="border-radius:12px; display: block;" alt="Party"/>
+  </p>
 
   <br/>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeAbreu42.GuilhermeAbreu42&color=8B5CF6" alt="visitor badge" />
 
   <br/><br/>
-
 
 </div>
