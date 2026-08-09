@@ -14,13 +14,10 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=console.log(%22Bora+codar%3F%22)%3B;print(%22Hello+World!%22)%3B;Seja+bem-vindo+ao+meu+Portf%C3%B3lio!;Desenvolvedor+de+Software+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-  
   <br/><br/>
 
-  <!-- Foto Centralizada -->
-  <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/314789058?s=400&u=ff958c0f545a513c35088f882e47047621955e5a&v=4" width="180" style="border-radius: 50%;" alt="Guilherme de Abreu" />
-  </p>
+  <!-- Sobre Mim - foto centralizada em cima, sem tabela de colunas (evita distorção no celular) -->
+  <img src="https://avatars.githubusercontent.com/u/314789058?s=400&u=ff958c0f545a513c35088f882e47047621955e5a&v=4" width="160" style="border-radius:50%; border:3px solid #8B5CF6;" alt="Guilherme de Abreu" />
 
   <h2>👨‍💻 Sobre mim</h2>
 
@@ -38,9 +35,9 @@
   <hr width="100%" color="#8B5CF6"/>
   <br/>
 
-  <!-- Tech Stack Moderno -->
+  <!-- Tech Stack (Shields Badges) -->
   <h2>🛠️ Linguagens & Ferramentas</h2>
-  
+
   <p><b>Front-End</b></p>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -65,7 +62,7 @@
   </p>
 
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
   <br/>
 
   <!-- Estatísticas -->
@@ -84,7 +81,7 @@
   <hr width="100%" color="#8B5CF6"/>
   <br/>
 
-  <!-- Contato Moderno em Badges Corrigido -->
+  <!-- Contato -->
   <h2>🌐 Conecte-se Comigo</h2>
   <br/>
 
@@ -104,12 +101,12 @@
   </p>
 
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
   <br/>
 
   <!-- Imagem de Finalização -->
   <p align="center">
-    <img src="https://i.pinimg.com/1200x/0c/a0/99/0ca099803a2477b5e2a01cd3e37c91cf.jpg" width="85%" style="border-radius:12px; display: block;" alt="Car Banner"/>
+    <img src="https://i.pinimg.com/1200x/0c/a0/99/0ca099803a2477b5e2a01cd3e37c91cf.jpg" width="85%" style="border-radius:12px; display: block;" alt="Party"/>
   </p>
 
   <br/>
