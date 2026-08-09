@@ -37,12 +37,13 @@
 
 • Curto jogar <b>video game</b> nas horas vagas 🎮<br/>
 </p>
-      </td>
-      <td width="45%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" alt="Coding GIF" style="border-radius:12px;" />
-      </td>
-    </tr>
-  </table>
+     </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- Sua Foto no Formato Gosma/Poça -->
+      <img src="https://avatars.githubusercontent.com/u/314789058?s=400&u=ff958c0f545a513c35088f882e47047621955e5a&v=4" width="200" alt="Guilherme de Abreu" />
+    </td>
+  </tr>
+</table>
 
   <br/>
   <hr width="100%" color="#8B5CF6"/>
