@@ -28,7 +28,8 @@
   Atualmente cursando Análise e Desenvolvimento de Sistemas e estagiando na área de T.I.<br/>
   Sempre em busca de conhecimento em tecnologia e novos desafios em desenvolvimento. 🚀
 </p>
-        <p align="left">💻 Codando algo novo todo dia • ☕ Café + código = produtividade</p>
+<br>
+       <p align="left">Focado no desenvolvimento de aplicações web e soluções em software.  .</p>
       </td>
       <td width="45%" align="center" valign="middle">
        <p align="center">
