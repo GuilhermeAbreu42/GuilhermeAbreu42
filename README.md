@@ -63,9 +63,8 @@
       </td>
     </tr>
   </table>
-
-  <br/>
-  <hr width="100%" color="#8B5CF6"/>
+    <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
   <br/>
 
   <!-- Tech Stack (Shields Badges) -->
