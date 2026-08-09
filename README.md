@@ -22,27 +22,20 @@
     <tr>
       <td width="55%" valign="top">
         <h2>👨‍💻 Sobre mim</h2>
-      <p>
-         Cursando Análise e Desenvolvimento de Sistemas 🎓🏫
-        
-        <br/>
-        
- Atuando na área como Estagiário de T.I 💻
+     <p align="left">
+• Cursando <b>Análise e Desenvolvimento de Sistemas 🎓 (ADS)</b><br/>
+       
+• Atuando na área como <b>Estagiário de TI 💼💻</b><br/>
  
- <br/>
-
+• Focado em desenvolvimento web (<b>JavaScript, PHP, HTML/CSS</b>) e banco de dados (<b>MySQL</b>) 🧑‍💻☕<br/>
  
-        
-Focado em desenvolvimento de software e projetos práticos 🧑‍💻☕
+•Interesse em <b>hardware</b> e estrutura de sistemas 🛠️<br/>
+ 
+•Escutando <b>Rock e Metal</b> no dia a dia 🤘🎧<br/>
+ 
+• Disciplina e constância nos <b>treinos e artes marciais 🥊🥋</b>
 
-<br/>
-
-Curto escutar Rock e Metal 🤘
-
-
-<br/>
-
-Artes marciais e disciplina na rotina de treinos 🥊🥋
+• Curto jogar <b>video game</b> nas horas vagas 🎮<br/>
 </p>
       </td>
       <td width="45%" align="center" valign="middle">
