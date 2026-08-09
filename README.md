@@ -1,112 +1,124 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Jairo%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Estagiário%20de%20TI&descAlignY=55&descSize=18" width="100%"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Guilherme%20de%20Abreu%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Estagiário%20de%20TI&descAlignY=55&descSize=18" width="100%"/>
+
+  <!-- Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=console.log(%22Bora+codar%3F%22)%3B;Estudante+de+ADS+%F0%9F%8E%93;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Sobre Mim Card Moderno -->
+  <table width="100%">
+    <tr>
+      <td width="55%" valign="top">
+        <h3 align="left">👨‍💻 Sobre mim</h3>
+        <p align="left">
+          🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b><br/>
+          💼 Atuando no mercado como <b>Estagiário de TI</b><br/>
+          🚀 Focado em evoluir em desenvolvimento e aprender novas tecnologias na prática<br/>
+          🎧 Ouvinte de Rock e Metal enquanto programo<br/>
+          🏋️ Mantendo a rotina de treinos
+        </p>
+      </td>
+      <td width="45%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" alt="Coding GIF" style="border-radius:12px;" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+  <hr width="100%" color="#8B5CF6"/>
+  <br/>
+
+  <!-- Tech Stack Moderno (Shields Badges) -->
+  <h2>🛠️ Linguagens & Ferramentas</h2>
+  
+  <p><b>Front-End</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </p>
+
+  <p><b>Back-End & Banco de Dados</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </p>
+
+  <p><b>Ferramentas & Workspace</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
+
+
+  <!-- Estatísticas -->
+  <h2>📊 Estatísticas de Dev</h2>
+  <br/>
+  <p align="center">
+    <img src="https://github-stats-extended.vercel.app/api?username=GuilhermeAbreu42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GuilhermeAbreu42&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  </p>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=GuilhermeAbreu42&theme=tokyonight&hide_border=true" />
+  </p>
+
+
+  </p>
+
+  <br/>
+  <hr width="100%" color="#8B5CF6"/>
+  <br/>
+
+  <!-- Contato Moderno em Badges -->
+  <h2>🌐 Conecte-se Comigo</h2>
+  <br/>
+
+  <p>
+    <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://discord.com/users/SEU_ID_DISCORD" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:SEU_EMAIL_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://wa.me/SEU_NUMERO_AQUI" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+  </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
+
+  <!-- Imagem de Finalização Ajustada e Contida -->
+  <table align="center">
+    <tr>
+      <td align="center" style="border:none;">
+        <img src="https://cdn.pfps.gg/pfps/2663-bmw-m3-drift.gif" width="60%" style="border-radius:12px; border:2px solid #8B5CF6; display: block;"/>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeAbreu42.GuilhermeAbreu42&color=8B5CF6" alt="visitor badge" />
+
+  <br/><br/>
+
 
 </div>
-
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <h2>Sobre mim</h2>
-      <p>
-        🎓 Estudante de <b>Análise e Desenvolvimento de Sistemas (ADS)</b><br/>
-        💼 Atuando no mercado como <b>Estagiário de TI</b><br/>
-        🚀 Focado em evoluir minhas habilidades em desenvolvimento e aprender novas tecnologias na prática<br/>
-        🎧 Ouvinte de Rock e Metal enquanto programo<br/>
-        🏋️ Mantendo a rotina de treinos
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="100%" alt="GIF" style="border-radius:12px;" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center">🛠️ Linguagens & Ferramentas</h2>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <table width="100%" style="border:1px solid #30363d; border-radius:10px;">
-        <tr><td align="center">
-          <h3>🎨 Front-End</h3>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5" title="HTML5" />
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3" title="CSS3" />
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript" title="JavaScript" />
-        </td></tr>
-      </table>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <table width="100%" style="border:1px solid #30363d; border-radius:10px;">
-        <tr><td align="center">
-          <h3>💻 Back-End & DB</h3>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" title="Python" />
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="php" title="PHP" />
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c" title="C" />
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql" title="MySQL" />
-        </td></tr>
-      </table>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <table width="100%" style="border:1px solid #30363d; border-radius:10px;">
-        <tr><td align="center">
-          <h3>🧰 Ferramentas</h3>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode" title="VS Code" />
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma" title="Figma" />
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git" title="Git" />
-          <img width="10" />
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="github" title="GitHub" />
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<h2 align="center">📊 Estatísticas</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true" alt="Top Linguagens" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula&hide_border=true" alt="Streak Stats" />
-</p>
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" />
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
-
-<br/>
-
-<h2 align="center">🌐 Contato</h2>
-
-<br/>
-
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-</div>
-
-<br/>
-
-<img src="https://cdn.pfps.gg/pfps/2663-bmw-m3-drift.gif" center="100%"/>
