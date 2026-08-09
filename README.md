@@ -146,5 +146,29 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GuilhermeAbreu42.GuilhermeAbreu42&color=8B5CF6" alt="visitor badge" />
 
   <br/><br/>
+ 
 
+  <br/><br/>
+
+  <!--
+    🥚 Ei, curioso(a) que veio espiar o código-fonte...
+    Parabéns, você achou o easter egg escondido!
+    console.log("Se você leu isso, me chama no Discord e fala a palavra-chave: CAFE_COM_CODIGO ☕💻");
+  -->
+
+  <details>
+    <summary> 🥚 </summary>
+    <br/>
+    <p>
+      Você encontrou o easter egg do meu perfil! 🎉<br/><br/>
+      Se chegou até aqui, já vale um café ou uma troca de ideia sobre dev. Me chama no LinkedIn ou Discord! ☕🚀<br/><br/>
+      Como recompensa, aqui vai uma dica de dev: <b>Ctrl+S</b> é seu melhor amigo. Salve sempre. 😅<br/><br/>
+      <code>console.log("Obrigado por chegar até aqui 👋");</code>
+    </p>
+    <br/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnkzeW9kdTZhcXF5M3Jiem4zeGFyNHVzaHlzdnl4bmViOXd0MHhtZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/WPyAmXubNrMv8BK7xx/giphy.webp" />
+  </details>
+
+  <br/><br/>
+  
 </div>
