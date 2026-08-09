@@ -10,48 +10,40 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=180&section=header&text=Guilherme%20de%20Abreu%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Software%20%7C%20Estagiário%20de%20TI&descAlignY=55&descSize=18" width="100%"/> 
 
-
-  <!-- Typing Effect Restaurado -->
+  <!-- Typing Effect -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=console.log(%22Bora+codar%3F%22)%3B;print(%22Hello+World!%22)%3B;Seja+bem-vindo+ao+meu+Portf%C3%B3lio!;Desenvolvedor+de+Software+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
   <br/><br/>
 
-  <!-- Sobre Mim Card Moderno -->
+  <!-- Sobre Mim - lado a lado, com imagem em largura proporcional (evita distorção no celular) -->
   <table width="100%">
     <tr>
-      <td width="55%" valign="top">
+      <td width="60%" valign="top">
         <h2>👨‍💻 Sobre mim</h2>
-     <p align="left">
-• Cursando <b>Análise e Desenvolvimento de Sistemas 🎓 (ADS)</b><br/>
-       
-• Atuando na área como <b>Estagiário de TI 💼💻</b><br/>
- 
-• Focado em desenvolvimento web (<b>JavaScript, PHP, HTML/CSS</b>) e banco de dados (<b>MySQL</b>) 🧑‍💻☕<br/>
- 
-•Interesse em <b>hardware</b> e estrutura de sistemas 🛠️<br/>
- 
-•Escutando <b>Rock e Metal</b> no dia a dia 🤘🎧<br/>
- 
-• Disciplina e constância nos <b>treinos e artes marciais 🥊🥋</b>
-
-• Curto jogar <b>video game</b> nas horas vagas 🎮<br/>
-</p>
-     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- Sua Foto no Formato Gosma/Poça -->
-      <img src="https://avatars.githubusercontent.com/u/314789058?s=400&u=ff958c0f545a513c35088f882e47047621955e5a&v=4" width="200" alt="Guilherme de Abreu" />
-    </td>
-  </tr>
-</table>
+        <p align="left">
+          • Cursando <b>Análise e Desenvolvimento de Sistemas 🎓 (ADS)</b><br/>
+          • Atuando na área como <b>Estagiário de TI 💼💻</b><br/>
+          • Focado em desenvolvimento web (<b>JavaScript, PHP, HTML/CSS</b>) e banco de dados (<b>MySQL</b>) 🧑‍💻☕<br/>
+          • Interesse em <b>hardware</b> e estrutura de sistemas 🛠️<br/>
+          • Escutando <b>Rock e Metal</b> no dia a dia 🤘🎧<br/>
+          • Disciplina e constância nos <b>treinos e artes marciais 🥊🥋</b><br/>
+          • Curto jogar <b>video game</b> nas horas vagas 🎮
+        </p>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <img src="https://avatars.githubusercontent.com/u/314789058?s=400&u=ff958c0f545a513c35088f882e47047621955e5a&v=4" width="100%" style="max-width:220px; border-radius:12px; border:2px solid #8B5CF6;" alt="Guilherme de Abreu" />
+      </td>
+    </tr>
+  </table>
 
   <br/>
   <hr width="100%" color="#8B5CF6"/>
   <br/>
 
-  <!-- Tech Stack Moderno (Shields Badges) -->
+  <!-- Tech Stack (Shields Badges) -->
   <h2>🛠️ Linguagens & Ferramentas</h2>
-  
+
   <p><b>Front-End</b></p>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -76,7 +68,7 @@
   </p>
 
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
   <br/>
 
   <!-- Estatísticas -->
@@ -95,31 +87,32 @@
   <hr width="100%" color="#8B5CF6"/>
   <br/>
 
-  <!-- Contato Moderno em Badges -->
+  <!-- Contato -->
   <h2>🌐 Conecte-se Comigo</h2>
   <br/>
 
   <p>
-    <a href="https:https://www.linkedin.com/in/guilherme-de-abreu-35293a3b4/" target="_blank">
+    <a href="https://www.linkedin.com/in/guilherme-de-abreu-35293a3b4/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://discord.com/users/591609472594739211" target="_blank">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https:https://www.instagram.com/guilhermeabreu58/" target="_blank">
+    <a href="https://www.instagram.com/guilhermeabreu58/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="guiabreuu2026@gmail.com" target="_blank">
+    <a href="mailto:guiabreuu2026@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
 
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
   <br/>
-<!-- Imagem de Finalização Ajustada -->
+
+  <!-- Imagem de Finalização -->
   <p align="center">
-    <img src="https://i.pinimg.com/1200x/0c/a0/99/0ca099803a2477b5e2a01cd3e37c91cf.jpg" width="85%" style="border-radius:12px; display: block;" alt="Party GIF"/>
+    <img src="https://i.pinimg.com/1200x/0c/a0/99/0ca099803a2477b5e2a01cd3e37c91cf.jpg" width="85%" style="border-radius:12px; display: block;" alt="Party"/>
   </p>
 
   <br/>
