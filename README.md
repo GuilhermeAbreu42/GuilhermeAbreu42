@@ -20,8 +20,14 @@
   <table width="100%" style="border:1px solid #30363d; border-radius:10px;">
     <tr>
       <td width="55%" valign="top" style="padding:24px;">
-        <h2 align="left">Olá, me chamo Guilherme de Abreu 👋</h2>
-        <p align="left">Gosto de tecnologia, sempre em busca de novos desafios em desenvolvimento. 🚀</p>
+      <h2 align="left" style="border-bottom:none; margin-bottom:0;">Olá, me chamo Guilherme de Abreu 👋</h2>
+      
+        
+<p align="left">
+  Gosto de programar e tenho conhecimento na área.<br/>
+  Atualmente cursando Análise e Desenvolvimento de Sistemas e estagiando na área de T.I.<br/>
+  Sempre em busca de conhecimento em tecnologia e novos desafios em desenvolvimento. 🚀
+</p>
         <p align="left">💻 Codando algo novo todo dia • ☕ Café + código = produtividade</p>
       </td>
       <td width="45%" align="center" valign="middle">
