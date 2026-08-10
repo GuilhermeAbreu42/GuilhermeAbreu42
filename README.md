@@ -109,10 +109,10 @@
   <p align="center">
     <img src="https://streak-stats.demolab.com/?user=GuilhermeAbreu42&theme=tokyonight&hide_border=true" />
   </p>
-
-  <br/>
-  <hr width="100%" color="#8B5CF6"/>
-  <br/>
+<!-- Snake Game -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation"/>
+</p>
 
   <!-- Contato -->
   <h2>🌐 Conecte-se Comigo</h2>
@@ -133,9 +133,6 @@
     </a>
   </p>
 
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
-  <br/>
 
   <!-- Imagem de Finalização -->
   <p align="center">
