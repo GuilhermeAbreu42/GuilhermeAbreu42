@@ -55,7 +55,7 @@
           <br/>
           • Interesse em <b>hardware</b> e estrutura de sistemas 🛠️
           <br/>
-          • Escutando <b>Rock e Metal</b> no dia a dia 🤘🎧
+          • Gosto de escultar <b>Rock e Metal</b> 🤘🎧
           <br/>
           • Disciplina e constância nos <b>treinos e artes marciais 🥊🥋</b>
           <br/>
