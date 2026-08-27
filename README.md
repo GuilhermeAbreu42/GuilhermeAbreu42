@@ -2,8 +2,6 @@
 
   <!-- Welcome GIF Header -->
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Nm40eXNnd3Mxb2xua3FlcGNpODNvbnBqMmRtbXRkZnJuM3F3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7R23DCz35vcGe6/giphy.gif" width="400" style="border-radius:12px; border:2px solid #8B5CF6;" alt="Welcome GIF"/>
-  </p>
 
   <br/>
 
