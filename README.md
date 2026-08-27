@@ -23,7 +23,7 @@
         
 <p align="left">
   Gosto de programar e tenho conhecimento na área.<br/>
-  Atualmente cursando Análise e Desenvolvimento de Sistemas, atualmente estou atuando na área de T.I.<br/>
+  Atualmente cursando Análise e Desenvolvimento de Sistemas,Atualmente, atuo no setor de Tecnologia da Informação.<br/>
   Sempre em busca de conhecimento em tecnologia e novos desafios em desenvolvimento. 🚀
 </p>
 <br>
